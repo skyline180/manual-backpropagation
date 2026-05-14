@@ -1,6 +1,5 @@
 Backpropagation is an algorithm used to compute gradients of the loss function with respect to neural network weights.
 It works using the chain rule from calculus and allows neural networks to learn by updating weights to reduce prediction error.
-
 ---
 
 **The goal is to minimize the loss function.**
